@@ -17,7 +17,7 @@ This project focuses on generating **realistic, lip-synced AI characters** capab
 ## 📽️ Demo  
 
 ### 🔹 Watch the AI character explain in Arabic  
-[![Watch Demo](media/demo_thumb.png)](https://github.com/your_username/your_repo/blob/main/media/demo.mp4)
+[![Watch Demo](media/demo_thumb.png)](https://github.com/norank03/LatentSyncTraining/main/media/demo.mp4)
 
 > 📂 The video file is available in the `/media` folder of this repository: `media/demo.mp4`
 
