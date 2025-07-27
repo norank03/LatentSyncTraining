@@ -14,10 +14,9 @@ This project focuses on generating **realistic, lip-synced AI characters** capab
 - 🎓 **Education-Oriented Output**: Designed to help automate explainer videos for online courses.  
 - 🔊 **Custom Audio Alignment**: Integrated preprocessing pipeline for clean audio-visual training data.
 
-## 📽️ Demo  
+## 📽️ Demo
 
-### 🔹 Watch the AI character explain in Arabic  
-[![Watch Demo](media/demo_thumb.png)](https://github.com/norank03/LatentSyncTraining/blob/main/media/demo.mp4))
+[![Watch Demo](media/demo_thumb.png)](https://raw.githubusercontent.com/norank03/LatentSyncTraining/main/media/demo.mp4)
 
 > 📂 The video file is available in the `/media` folder of this repository: `media/demo.mp4`
 
