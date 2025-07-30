@@ -16,7 +16,7 @@ This project focuses on generating **realistic, lip-synced AI characters** capab
 
 ## 📽️ Demo
 
-[![Watch Demo](media/demo_thumb.png)](https://raw.githubusercontent.com/norank03/LatentSyncTraining/main/media/demo.mp4)
+![https://drive.google.com/file/d/1G9xADO5cge7r417DfNhOxs0neC6IuOhz/view]
 
 > 📂 The video file is available in the `/media` folder of this repository: `media/demo.mp4`
 
